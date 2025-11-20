@@ -1,0 +1,8 @@
+DOMAIN_NAME=joscastr.42.fr
+MYSQL_USER=joscastr
+MYSQL_PASSWORD=Noah1967
+MYSQL_ROOT_PASSWORD=MIA1234
+WP_ADMIN_USER=joscastr
+WP_ADMIN_PASSWORD=secure_password
+WP_ADMIN_EMAIL=joscastr@42.fr
+WP_TITLE=My WordPress Site
